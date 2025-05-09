@@ -89,7 +89,7 @@ WebPilot AI operates in three modes:
 ---
 
 ## Folder Structure (expected)
-<pre><code>```bash AI_Web_Scrapper/ │ ├── LICENSE │ ├── README.md │ └── WebPilot_AI_blog.ipynb  ``` </code></pre>
+<pre><code>``` AI_Web_Scrapper/ │ ├── LICENSE ├── README.md └── WebPilot_AI_blog.ipynb ```</code></pre>
 
 ---
 
@@ -119,7 +119,7 @@ WebPilot AI operates in three modes:
 
 ## GitHub Repo
 
-🌐 *[Link to GitHub repository (https://github.com/Spidy12317/AI_Web_Scrapper.git)]*
+🌐 [Link to GitHub repository](https://github.com/Spidy12317/AI_Web_Scrapper.git)
 
 ---
 
