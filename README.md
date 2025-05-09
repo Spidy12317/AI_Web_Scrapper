@@ -89,11 +89,7 @@ WebPilot AI operates in three modes:
 ---
 
 ## Folder Structure
-AI_Web_Scrapper/
-│
-├── LICENSE
-├── README.md
-└── WebPilot_AI_blog.ipynb
+<pre><code>``` AI_Web_Scrapper/ │ ├── LICENSE ├── README.md └── WebPilot_AI_blog.ipynb ```</code></pre>
 
 ---
 
