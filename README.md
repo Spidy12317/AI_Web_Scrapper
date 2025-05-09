@@ -89,16 +89,7 @@ WebPilot AI operates in three modes:
 ---
 
 ## Folder Structure (expected)
-WebPilot-AI/
-│
-├── html_scraper/ # HTML scraping code and samples
-├── vision_extraction/ # Playwright + screenshot + VLM interface
-├── automated_browser/ # Dynamic interaction handlers
-├── notebooks/
-│ └── blog_post.ipynb # Course blog-style explanation notebook
-├── assets/ # Screenshots or demo images
-├── README.md # This file
-└── requirements.txt # Dependencies
+<pre><code>```bash AI_Web_Scrapper/ │ ├── LICENSE │ ├── README.md │ └── WebPilot_AI_blog.ipynb  ``` </code></pre>
 
 ---
 
@@ -117,26 +108,18 @@ WebPilot-AI/
 - [BeautifulSoup Docs](https://www.crummy.com/software/BeautifulSoup/)
 - [GPT-4V (OpenAI)](https://openai.com/gpt-4v)
 - [LLaVA](https://llava-vl.github.io/)
-- [Berkeley Blog Example](https://bair.berkeley.edu/blog/2024/07/20/visual-haystacks/)
 
 ---
 
 ## Reflections
 
-- **What surprised me**: The robustness of Vision-Language Models in understanding layouts from images.
 - **Scope for improvement**: Speed optimization, better model prompting, CAPTCHA-handling, and using self-hosted open models for cost-efficiency.
 
 ---
 
-## Project Video
+## GitHub Repo
 
-▶️ *[Link to YouTube video (to be added after upload)]*
-
----
-
-## 🔗 GitHub Repo
-
-🌐 *[Link to GitHub repository (this repo)]*
+🌐 *[Link to GitHub repository (https://github.com/Spidy12317/AI_Web_Scrapper.git)]*
 
 ---
 
